@@ -14,5 +14,5 @@
   5. Shikha_lab_1_Adult_census: Is another EDA performed for the same Income data. Some of these EDA was applied to to the final EDA_Statistical Analysis
 
 ## Uses Movie.csv data
-  1: **JoiningData_for_Clustering**: attempt at aimming to cluster movies. This shows the inital steps at splitting the data.
-  2: **Duy_Lab3_Clusterin and Duy_lab3_Clustereing_moviedata**: Performs EDA and clustering on movie data
+  1. **JoiningData_for_Clustering**: attempt at aimming to cluster movies. This shows the inital steps at splitting the data.
+  2. **Duy_Lab3_Clusterin and Duy_lab3_Clustereing_moviedata**: Performs EDA and clustering on movie data
