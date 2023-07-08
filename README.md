@@ -10,8 +10,8 @@
 + Model 4: Random Forest
 + Model 5: Naive-Bayes Bernoulli
 + Mdeol 6: KNN Cosine
-  4. SVM_LogisticReg: Performs and SVM and logistic regression on the same Income data aiming to predict income. It also looks at the important features..
-  5. Shikha_lab_1_Adult_census: Is another EDA performed for the same Income data. Some of these EDA was applied to to the final EDA_Statistical Analysis
+  4. **SVM_LogisticReg**: Performs and SVM and logistic regression on the same Income data aiming to predict income. It also looks at the important features..
+  5. **Shikha_lab_1_Adult_census**: Is another EDA performed for the same Income data. Some of these EDA was applied to to the final EDA_Statistical Analysis
 
 ## Uses Movie.csv data
   1. **JoiningData_for_Clustering**: attempt at aimming to cluster movies. This shows the inital steps at splitting the data.
