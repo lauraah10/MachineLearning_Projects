@@ -1,5 +1,4 @@
-# MachineLearning_1stProject
-
+# MachineLearning_projects
 ## Using Kaggles census Data focusing on income
   1. **EDA_Statistical Analysis** : Is a complete detailed EDA and statistical analysis on census data from Kaggle on the social aspects impact/pattern with salary.
   2. **Clustring_DS7331**: Is uses the same data as EDA_Statistical, repeating essential EDA aspects to then performs different Clustering algorithms.
